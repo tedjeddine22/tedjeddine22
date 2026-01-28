@@ -23,19 +23,19 @@
 ---
 
 ## 🌐 Socials
-<div align="center">
+
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tadjo.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadj-eddine-bouderba-533504255/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tadjotadji76@gmail.com)
 
-</div>
+
 
 ---
 
 # 💻 Tech Stack
 
-<div style="display: flex; flex-direction: column; gap: 25px;" align="center">
+<div style="display: flex; flex-direction: column; gap: 25px; >
 
 <!-- MAIN PROGRAMMING LANGUAGES -->
 <div>
@@ -98,19 +98,16 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tedjeddine22&theme=tokyonight&hide_border=false" />
-<br>
+  
 <img src="https://nirzak-streak-stats.vercel.app/?user=tedjeddine22&theme=tokyonight&hide_border=false" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=tedjeddine22&theme=tokyonight&hide_border=false" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjeddine22&theme=tokyonight&layout=compact&hide_border=false" />
 
 </div>
 
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=tedjeddine22&icon=0&color=0" />
-</div>
 
----
 
-📫 **Always learning, always improving.**
+
+
