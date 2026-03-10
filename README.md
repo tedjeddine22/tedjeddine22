@@ -32,14 +32,12 @@
 
 # 💻 Tech Stack
 
-<!-- MAIN PROGRAMMING LANGUAGES -->
 ### 🧠 Core Programming
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<!-- WEB DEVELOPMENT -->
 ### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,14 +47,12 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- BACKEND & SERVERS -->
 ### ⚙️ Backend & Servers
 
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-<!-- TOOLS & DEVOPS -->
 ### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -65,7 +61,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%23007ACC.svg?style=for-the-badge)
 
-<!-- DESIGN -->
 ### 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -78,9 +73,9 @@
 <div align="center">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=tedjeddine22&theme=tokyonight&hide_border=false" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=tedjeddine22&theme=tokyonight&hide_border=false" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjeddine22&theme=tokyonight&layout=compact&hide_border=false" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=tedjeddine22&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjeddine22&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" />
 
 </div>
