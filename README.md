@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tedjeddine22&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=tedjeddine22&theme=tokyonight&hide_border=false" />
 
 <br><br>
 
