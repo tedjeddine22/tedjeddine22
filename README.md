@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Tadj Eddine
 
-🎓 Computer Engineering student (Industrial Computing)
+🎓 4th-year Computer Engineering student (Cybersecurity) at USTHB
 🔐 Interested in Cybersecurity & Artificial Intelligence
 💻 Passionate about learning, building, and breaking systems to understand how they work
 
@@ -12,16 +12,21 @@
 
 - Cybersecurity fundamentals (Linux, privilege escalation, CTF-style challenges)
 - Networking & simulations (Packet Tracer)
-- Web development (HTML, CSS, JavaScript, Vue.js, React, Flask)
+- Mobile App Development (Flutter, Firebase)
+- Web development (HTML, CSS, JavaScript, Vue.js, React, Flask, Node.js, NestJS)
 - Java applications (OOP, Swing, Serialization)
 
 ---
 
 ## 🧠 Notable Projects
 
-- **Diacar** – Smart diabetes monitoring & support platform
-- **Medical Clinic Management System** – Java Swing desktop app
-- **Cybersecurity Labs** – Linux security & networking practice
+- **TalkaNova** – Security-first E2EE messaging app with a Next.js frontend and Python FastAPI backend. Features WebSockets, Google OAuth, and Tor/Tailscale compatibility.
+- **Melody** – Modern music streaming mobile app developed with Flutter and Firebase, integrating the Jamendo API with a premium glassmorphism UI.
+- **NeoMarket** – A fully functional, dark futuristic gaming hardware marketplace built from scratch using pure HTML5, CSS3, and Vanilla JavaScript.
+- **Deen App** – React-based application to support daily Islamic practices, featuring a custom-built prayer times interface and clean UI.
+- **Diacar** – Smart diabetes monitoring & support platform.
+- **Medical Clinic Management System** – Java Swing desktop app.
+- **Cybersecurity Labs** – Linux security & networking practice.
 
 ---
 
@@ -41,6 +46,12 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+## 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
 ## 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,12 +64,15 @@
 
 ## ⚙️ Backend & Servers
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## 🛠️ Tools & Platforms
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -75,15 +89,18 @@
 # 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tedjeddine22&label=Profile%20Views&color=02569B&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=tedjeddine22&theme=tokyonight&hide_border=false" />
+<br>
 
-<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tedjeddine22&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjeddine22&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tedjeddine22&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" />
+<br>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjeddine22&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=tedjeddine22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
